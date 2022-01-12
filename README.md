@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ssheffk
 - 👀 I’m interested in finance, and blockchain enthusiast 
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on Data-Analyst projects
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me ...
 
 <!---
